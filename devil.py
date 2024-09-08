@@ -81,10 +81,6 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print  (king)
 
-                     
-"\033[1;94m
-                  
-"\033[1;92m
 
 """
 
