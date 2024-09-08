@@ -82,7 +82,7 @@ os.system("clear")
 print  (king)
 
                      
-\033[1;94mFACEBOOK  DEVI
+\033[1;94mFACEBOOK DEVIKING
                   
 \033[1;92mFB PAGE   DEVI 
 
