@@ -79,7 +79,7 @@ vulnot = "\033[31mNot Vuln"
 vuln = "\033[32mVuln"
 
 os.system("clear")
-print  """
+print  (king)
 
                      
 \033[1;94mFACEBOOK  DEVI
@@ -139,7 +139,7 @@ logo2 = """
 ║   Note 💝💝💝Use Flight mode before use              ║
 ╚══──────────────────────────╝─══╝
 """
-print("""
+print (king)
 Owner: DEVI (M.A)
 Facebook: devi 
 
